@@ -50,11 +50,11 @@ div.card-body {
   width: 100%;
 }
 
-.container:hover .image {
+.card:hover .image {
   opacity: 0.3;
 }
 
-.container:hover .middle {
+.card:hover .middle {
   opacity: 1;
 }
 

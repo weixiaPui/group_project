@@ -1,0 +1,40 @@
+body {
+  padding-top: 0
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+h1{
+  color: black;
+  font-size: 30px
+}
+
+h2{
+  color: black;
+  font-size: 20px
+}
+
+.btn-primary {
+  color: white;
+  background-color: blue;
+  outline-color: white;
+
+}
+
+.btn-primary:hover {
+  color: white;
+  background-color: grey;
+  outline-color: white;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: black;
+   color: white;
+   text-align: center;
+}

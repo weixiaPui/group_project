@@ -1,0 +1,23 @@
+body {
+  padding-top: 0rem;
+  text-align: center;
+	background-image: url("../images/TextBackground.jpg");
+  background-size: cover;
+}
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.carousel-item{
+	height: 400px;
+}
+
+.carousel-item img{
+	height: 400px
+}
+
+.AboutBody{
+	padding-top: 2rem;
+}

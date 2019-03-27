@@ -1,7 +1,7 @@
 body {
-  padding-top: 5rem;
-  background-image: url('../images//HotAirBalloon.jpg');
-	background-size: 100% 12%;
+  padding-top: 0rem;
+	background-image: url("../images/TextBackground.jpg");
+  background-size: cover;
 }
 .starter-template {
   padding: 3rem 1.5rem;
@@ -67,7 +67,4 @@ div.card-body {
 
 .BackgroundIm{
 	padding-top: 5rem;
-	background-image: url("../images/TextBackground.jpg");
-	background-size: 100% 120%;
-	min-height: 81vh;
 }

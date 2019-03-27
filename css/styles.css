@@ -1,8 +1,8 @@
 body {
-  padding-top: 5rem;
+  padding-top: 0rem;
   text-align: center;
-  background-image: url('../images//HotAirBalloon.jpg');
-	background-size: 100% 12%;
+  background-image: url("../images/Suspension Bridge.jpg");
+  background-size: cover;
 }
 
 .starter-template {
@@ -27,14 +27,10 @@ body {
 
 .myclass{
 	padding-top: 2rem;
-	background-image: url("../images/Suspension Bridge.jpg");
-	background-size: 100% 120%;
-	min-height: 81vh;
 }
 
 .AboutBody{
-	padding-top: 5rem;
+	padding-top: 0rem;
 	background-image: url("../images/TextBackground.jpg");
-	background-size: 100% 120%;
-	min-height: 81vh;
+	background-size: auto;
 }

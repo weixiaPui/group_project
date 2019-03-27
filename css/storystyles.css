@@ -24,8 +24,8 @@ h2 {
 }
 
 .picture {
-  max-width: 10px;
-  max-height: 5px;
+  max-width: 30px;
+  max-height: 20px;
 }
 .footer {
    position: fixed;

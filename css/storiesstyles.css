@@ -19,13 +19,13 @@ div.card-body {
 .btn-primary {
   color: white;
   background-color: black;
-  outline-color: rgb (100,120,160);
+  outline-color: black;
 
 }
 
 .btn-primary:hover {
-  color: white;
-  background-color: blue;
+  color: black;
+  background-color: white;
   outline-color: white;
 }
 

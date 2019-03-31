@@ -23,10 +23,7 @@ h2 {
   color: rgb(100,100,160);
 }
 
-.picture {
-  max-width: 30px;
-  max-height: 20px;
-}
+
 .footer {
    position: fixed;
    left: 0;

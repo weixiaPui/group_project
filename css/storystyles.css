@@ -15,12 +15,12 @@ body {
   padding-bottom: 0px;
 }
 
-h1 {
-  color: rgb(114, 21, 121);
+h4 {
+    color: rgb(100,100,160);
 }
 
-h2 {
-  color: rgb(100,100,160);
+h1 {
+  color: rgb(114, 21, 121);
 }
 
 
@@ -35,5 +35,5 @@ h2 {
 }
 
 .BackgroundIm{
-	padding-top: 5rem;
+
 }

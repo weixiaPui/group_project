@@ -1,5 +1,6 @@
 body {
   padding-top: 0rem;
+  text-align: center;
 	background-image: url("../images/TextBackground.jpg");
   background-size: cover;
 }
@@ -66,5 +67,5 @@ div.card-body {
 }
 
 .BackgroundIm{
-	padding-top: 5rem;
+	padding-top: 2rem;
 }
